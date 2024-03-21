@@ -26,4 +26,5 @@ The implementation of a sklearn-based chatbot, capable of indicating symptoms, p
 
 # Articles published / References
 R. B. Mathew, S. Varghese, S. E. Joy and S. S. Alex, "Chatbot for Disease Prediction and Treatment Recommendation using Machine Learning," 2019.
+
 M. M. Rahman, R. Amin, M. N. Khan Liton and N. Hossain, "Disha: An Implementation of Machine Learning Based Bangla Healthcare Chatbot," 2019.
